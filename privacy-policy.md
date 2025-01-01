@@ -94,6 +94,4 @@ We may update this policy. Users will be notified of significant changes.
 ## 10. Contact Us
 
 For privacy questions or concerns:
-- Email: privacy@aitattoomaker.com
-- Address: [Your Business Address]
-- Support: In-app help center
+- Email: ramazanusen@gmail.com

@@ -81,7 +81,7 @@ We reserve the right to modify these terms at any time. Users will be notified o
 
 ## 9. Contact
 
-For questions about these terms, contact us at support@aitattoomaker.com
+For questions about these terms, contact us at ramazanusen@gmail.com
 
 ## 10. Governing Law
 
